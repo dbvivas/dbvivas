@@ -13,7 +13,7 @@
 - 📲 Web developer
 - 🎥 Mi canal en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+24k subs)
 - ✏️ proximamente mi bloc [CursoKotlin](https://cursokotlin.com)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+
 <br>
 
 ## Proyectos *bombitas*
